@@ -1,4 +1,9 @@
 # ninja-smoothies
+## Screeshots
+
+![screen1](screen/1.png)
+![screen2](screen/2.png)
+![screen3](screen/3.png)
 
 ## Project setup
 ```
